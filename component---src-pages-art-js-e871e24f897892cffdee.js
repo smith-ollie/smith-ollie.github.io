@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{139:function(e,t,n){"use strict";n.r(t),n.d(t,"query",function(){return u});var a=n(0),r=n.n(a),c=(n(203),n(149)),i=n(146),o=n(266);t.default=Object(c.b)(function(e){var t=e.data,n=t.intro.edges[0].node,a=t.art.pieces;return r.a.createElement(i.f,null,r.a.createElement(o.d,{elementType:"header",title:"Hobby artist",introduction:n}),r.a.createElement(o.a,{name:"Gallery",art:a}))});var u="618971386"}}]);
+//# sourceMappingURL=component---src-pages-art-js-e871e24f897892cffdee.js.map
