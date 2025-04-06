@@ -33,7 +33,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          repository: electricdreammachine/tout-oublier
+          repository: smith-ollie/olliesmith.dev
           token: ${{ secrets.PAT }}
       - name: Detect package manager
         id: detect-package-manager
